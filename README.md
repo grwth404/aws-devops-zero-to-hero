@@ -183,3 +183,5 @@ On the final day, you'll review best practices for AWS services, including secur
 
 ## Day 30: AWS Project with RDS
 
+**Project:** You'll configure CloudTrail to log API activities and set up AWS Config rules to enforce compliance policies for your AWS resources.
+
